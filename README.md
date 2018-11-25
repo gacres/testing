@@ -2,6 +2,10 @@
 
 Just testing.  Nothing to see here.
 
+```Dim session as New NotesSession  
+Dim dbCurrent as NotesDatabase  
+Dim docTimesheet as NotesDocument```
+
 Paragraphs are separated
 by a blank line.
 
