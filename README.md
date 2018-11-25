@@ -1,7 +1,9 @@
 # testing
 
-Just testing.  Nothing to see here.  
-##Sample Code
+Just testing.  Nothing to see here.
+
+###Sample Code
+
 ```
 Dim session as New NotesSession  
 Dim dbCurrent as NotesDatabase  
