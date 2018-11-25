@@ -2,7 +2,7 @@
 
 Just testing.  Nothing to see here.
 
-###Sample Code
+### Sample Code
 
 ```
 Dim session as New NotesSession  
