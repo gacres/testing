@@ -1,13 +1,6 @@
-## testing  
+# testing
 
 Just testing.  Nothing to see here.
----
-`Dim session as New NotesSession`
----
-Heading
-=======
-
-## Sub-heading
 
 Paragraphs are separated
 by a blank line.
